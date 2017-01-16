@@ -2,3 +2,4 @@ main()
 {
 serch();
 }
+new（）{}；
