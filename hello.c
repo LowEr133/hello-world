@@ -2,4 +2,4 @@ main()
 {
 serch();
 }
-new（）{}；
+new（）
